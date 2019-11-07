@@ -1,0 +1,5 @@
+This is program image process.
+You must open on Visual studio.
+Press Ctrl + F5 to build program.
+Import name Image for program.
+
